@@ -24,4 +24,3 @@ while (tex[b]==" "or tex[b]==chr(10)):
 print(b)	
 print (tex[(b):(b+11)])
 
- 
